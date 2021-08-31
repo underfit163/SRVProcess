@@ -1,0 +1,3 @@
+﻿  SRVlabSqrt.cpp
+C:\Users\163ty\Desktop\SRV3lab\lab3SRV\SRVlabSqrt\SRVlabSqrt.cpp(25,12): warning C4101: cbRead: неиспользованная локальная переменная
+  SRVlabSqrt.vcxproj -> C:\Users\163ty\Desktop\SRV3lab\lab3SRV\x64\Debug\SRVlabSqrt.exe

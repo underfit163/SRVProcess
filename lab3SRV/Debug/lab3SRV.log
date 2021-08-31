@@ -1,0 +1,4 @@
+﻿  lab3SRV.cpp
+C:\Users\163ty\Desktop\SRV3lab\lab3SRV\lab3SRV\lab3SRV.cpp(22,16): warning C4101: n: неиспользованная локальная переменная
+  LINK : не найден или не выполнена сборка C:\Users\163ty\Desktop\SRV3lab\lab3SRV\Debug\lab3SRV.exe при последней инкрементной компоновке; выполняется полная компоновка
+  lab3SRV.vcxproj -> C:\Users\163ty\Desktop\SRV3lab\lab3SRV\Debug\lab3SRV.exe

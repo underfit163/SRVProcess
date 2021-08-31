@@ -1,0 +1,7 @@
+﻿  SRVlabMul.cpp
+C:\Users\163ty\Desktop\SRV3lab\lab3SRV\SRVlabMul\SRVlabMul.cpp(86,57): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\163ty\Desktop\SRV3lab\lab3SRV\SRVlabMul\SRVlabMul.cpp(36,12): warning C4101: cbRead: неиспользованная локальная переменная
+C:\Users\163ty\Desktop\SRV3lab\lab3SRV\SRVlabMul\SRVlabMul.cpp(35,12): warning C4101: cbMsgNumber: неиспользованная локальная переменная
+C:\Users\163ty\Desktop\SRV3lab\lab3SRV\SRVlabMul\SRVlabMul.cpp(33,12): warning C4101: fReturnCode: неиспользованная локальная переменная
+C:\Users\163ty\Desktop\SRV3lab\lab3SRV\SRVlabMul\SRVlabMul.cpp(34,12): warning C4101: cbMessages: неиспользованная локальная переменная
+  SRVlabMul.vcxproj -> C:\Users\163ty\Desktop\SRV3lab\lab3SRV\x64\Debug\SRVlabMul.exe
